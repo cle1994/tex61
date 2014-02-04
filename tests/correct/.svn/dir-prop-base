@@ -1,0 +1,32 @@
+K 10
+svn:ignore
+V 382
+
+
+._.DS_Store
+._edge.std
+._edge.tx
+._endnotestest.std
+._endnotestest.tx
+._endnotetest.std
+._endnotetest.tx
+._nocommands.std
+._nocommands.tx
+._noendnotes.std
+._noendnotes.tx
+._noendnotes2.std
+._noendnotes2.tx
+._nofill.std
+._nofill.tx
+._nofillhill.std
+._nofillhill.tx
+._nojustify.std
+._nojustify.tx
+._parskip.std
+._parskip.tx
+._small.std
+._small.tx
+._specialchar.std
+._specialchar.tx
+
+END

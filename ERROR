@@ -1,0 +1,9 @@
+I have a problem with my nojustify.tx test in tests/correct.
+When I run it natively on my mac running maverick it runs
+fine but when I run it on the instruaction machine I get a
+stackoverflowerror.
+
+I do 
+javac -g tex61/*.java
+then
+java tex61/Main tests/correct/nojustify.tx
